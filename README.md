@@ -4,7 +4,7 @@
 <br/>
 <div align="center">
 
-![Sujon Sheikh](gitartwork.svg)
+![SUJON](gitartwork.svg)
 
 </div>
 
